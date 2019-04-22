@@ -1,5 +1,5 @@
 # DXF-Structure-Example
- This repository should illustrate the structure of an dxf file.
+ This repository should illustrate the structure of an dxf file
 
   0
 SECTION
